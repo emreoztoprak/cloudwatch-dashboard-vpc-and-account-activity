@@ -16,13 +16,13 @@ Before you begin, ensure you have the following prerequisites:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone git@github.com:emreoztoprak/Cloudwatch-Dashboard-for-VPC-Flow-Cloudtrail-Logs.git
+   git clone git@github.com:emreoztoprak/cloudwatch-dashboard-vpc-and-account-activity.git
    ```
 
 2. Change to the repository directory:
 
    ```bash
-   cd Cloudwatch-Dashboard-for-VPC-Flow-Cloudtrail-Logs
+   cd cloudwatch-dashboard-vpc-and-account-activity
    ```
 
 3. Initialize the Terraform workspace:
